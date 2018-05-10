@@ -1,3 +1,3 @@
 ## webapp_phase1
-
-undefined
+1.Nomadic.
+2.Security, money, distance.
